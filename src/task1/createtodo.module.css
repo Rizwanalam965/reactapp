@@ -1,0 +1,36 @@
+#createtodocontainer {
+  /* border: 2px solid black; */
+  padding: 20px 0;
+}
+#createtodocontainer > form {
+ border: 1px solid gainsboro;
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #ebebeb6b;
+  border-radius: 5px;
+  margin-bottom: 20px;  
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+#createtodocontainer label {
+  font-weight: 600;
+  font-size: 30px;
+}
+#createtodocontainer input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid gainsboro;
+  outline: none;
+}
+#createtodocontainer button {
+  padding: 10px 30px;
+  background-color: royalblue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+#createtodocontainer button:hover {
+  cursor: pointer;
+  background-color: #153aa9;
+}

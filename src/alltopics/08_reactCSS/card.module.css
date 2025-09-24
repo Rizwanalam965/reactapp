@@ -1,0 +1,6 @@
+#head {
+  background-color: aqua;
+}
+#cardcontainer > p {
+  background-color: yellow;
+}
